@@ -1,5 +1,7 @@
-# 💫 About Me:
-🏫 Mahasiswa di Universitas Teknologi Digital Indonesia.<br>💻 Repository ini adalah arsip proyek akademik saya.<br>🌱 Saat ini sedang belajar: HTML, CSS, Javascript, PHP, Java, Basis Data.
+# 💫 Filosofi Logo :
+Terinspirasi dari ikon konektor RJ45 sebagai simbol penghubung utama dalam jaringan 🌐, logo ini merepresentasikan esensi konektivitas dalam pengembangan perangkat lunak. Ia melambangkan integrasi tanpa batas, menghubungkan kode 💻, sistem ⚙️, dan layanan ☁️ menjadi satu kesatuan yang selaras.
+
+📐 Bentuk yang mencerminkan keandalan dan presisi, sementara garis-garisnya menggambarkan aliran data yang hidup dan tak terputus 🔄. Sebuah simbol dari peran sentral: menghubungkan, menyatukan, dan menggerakkan solusi digital 🚀 — ***bridging systems, powering connections.***
 
 
 ## 🌐 Socials:
