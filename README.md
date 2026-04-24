@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ark2Y6o9yfE6Tkjf9H5Y74rKVcr6ZiGX" alt="Banner Project" width="100%">
+  <img src="https://drive.google.com/uc?export=view&id=1qt5-woydyd6bqiIGikXsxYBXBNx3c63I" alt="Banner Project" width="100%">
 </p>
+
 ---
 
 # 💫 Filosofi Logo :
