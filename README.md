@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1ark2Y6o9yfE6Tkjf9H5Y74rKVcr6ZiGX" alt="Banner Project" width="100%">
+</p>
+---
+
 # 💫 Filosofi Logo :
 Terinspirasi dari ikon konektor RJ45 sebagai simbol penghubung utama dalam jaringan 🌐, logo ini merepresentasikan esensi konektivitas dalam pengembangan perangkat lunak. Ia melambangkan integrasi tanpa batas, menghubungkan kode 💻, sistem ⚙️, dan layanan ☁️ menjadi satu kesatuan yang selaras.
 
